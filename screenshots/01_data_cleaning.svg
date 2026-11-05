@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="800" viewBox="0 0 1400 800">
+<rect width="1400" height="800" fill="#ffffff"/><rect x="40" y="35" width="1320" height="730" rx="18" fill="#f8fafc" stroke="#1e3a5f" stroke-width="3"/>
+<text x="700" y="105" text-anchor="middle" font-family="Arial" font-size="38" font-weight="700" fill="#102a43">Experiment 1 Data Cleaning</text>
+<text x="700" y="180" text-anchor="middle" font-family="Arial" font-size="25" fill="#334e68">Orange workflow</text>
+<rect x="120" y="230" width="1160" height="120" rx="14" fill="#e6f0ff" stroke="#2563eb" stroke-width="2"/>
+<text x="700" y="302" text-anchor="middle" font-family="Arial" font-size="30" fill="#102a43">File → Impute → Data Table</text>
+<text x="120" y="445" font-family="Arial" font-size="28" font-weight="700" fill="#102a43">Dataset: Diabetes disease progression</text>
+<text x="120" y="500" font-family="Arial" font-size="26" fill="#334e68">442 patient records • 10 baseline features • progression target • derived risk class</text>
+<rect x="120" y="555" width="1160" height="125" rx="14" fill="#effaf3" stroke="#159957" stroke-width="2"/>
+<text x="155" y="610" font-family="Arial" font-size="26" font-weight="700" fill="#0f5132">Expected output</text>
+<text x="155" y="655" font-family="Arial" font-size="24" fill="#174c33">Average / most frequent replaces simulated missing values.</text>
+</svg>
